@@ -6,7 +6,7 @@ Rocío Alario
 Trabajo Practico de CSS
 
 En esta entrega se realizó un proyecto con componentes básicos de HTML y de CSS
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Forma de ejecución:
 Debe tener instalada la extensión de Live Server en VSCode 
 
